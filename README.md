@@ -1,7 +1,7 @@
 # docker-python-hello-world
 Simple dockerfile for python printing Hello, World!
 
-
+# build the image
 docker build -t hello_world:v1 .
 
 # keep container running detached
